@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![logo](https://github.com/ubaidrashid/ubaidrashid/blob/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
+-->
  <h1 align="center">Hi 👋, I'm Khizer Butt</h1>
 <h3 align="center">A passionate frontend developer from Karachi Pakistan</h3>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *web development*
 - 👨‍💻 All of my projects are available at [https://github.com/KHIZERBUTT07?tab=repositories](https://github.com/KHIZERBUTT07?tab=repositories)
 - 💬 Ask me about *html,css*
-- 📫 How to reach me Khizerbutt105@gmail.com*s
+- 📫 How to reach me *Khizerbutt105@gmail.com*
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
