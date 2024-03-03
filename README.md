@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  <h1 align="center">Hi 👋, I'm Khizer Butt</h1>
 <h3 align="center">A passionate frontend developer from Karachi Pakistan</h3>
 
