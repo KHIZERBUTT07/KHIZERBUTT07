@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[logo]!C:\Users\maazb\OneDrive\Desktop\KHIZERBUTT07\banner.jpg
+!C[logo]C:\Users\maazb\OneDrive\Desktop\KHIZERBUTT07\banner.jpg
  <h1 align="center">Hi 👋, I'm Khizer Butt</h1>
 <h3 align="center">A passionate frontend developer from Karachi Pakistan</h3>
 
