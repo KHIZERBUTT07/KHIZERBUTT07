@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *web development*
 - 👨‍💻 All of my projects are available at [https://github.com/KHIZERBUTT07?tab=repositories](https://github.com/KHIZERBUTT07?tab=repositories)
-- 💬 Ask me about *html,css*
+- 💬 Ask me about *html,css,javascript*
 - 📫 How to reach me *Khizerbutt105@gmail.com*
 <br>
 <h3 align="left">Connect with me:</h3>
