@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KhubaibAsif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
+<br>
+
+<hr/>
+<br>
 - 🌱 I’m currently learning *web development*
 - 👨‍💻 All of my projects are available at [https://github.com/KHIZERBUTT07?tab=repositories](https://github.com/KHIZERBUTT07?tab=repositories)
 - 💬 Ask me about *html,css,javascript*
