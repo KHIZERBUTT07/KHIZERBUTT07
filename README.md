@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="ReactJs" width="40" height="40" /> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="TailwindCSS" width="40" height="40"  /> </a>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg"  alt="TailwindCSS" width="40" height="40"  /> </a>
           <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"   /> </a>
             
