@@ -65,7 +65,6 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"  alt="NextJs" width="40" height="40"/> </a>
             <a href="https://nextui.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextUi" width="40" height="40"/> </a>
-
          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"  alt="Git" width="40" height="40"/> </a>
  <a href="https://github.com/" target="_blank" rel="noreferrer">
