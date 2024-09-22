@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *MERN Stack*
 - 👨‍💻 All of my projects are available at [https://github.com/KHIZERBUTT07?tab=repositories](https://github.com/KHIZERBUTT07?tab=repositories)
-- 💬 Ask me about *html,css,javascript & reactJs*
+- 💬 Ask me about *html,css,javascript,reactJs & nextJs*
 - 📫 How to reach me *Khizerbutt105@gmail.com*
 <br>
 
