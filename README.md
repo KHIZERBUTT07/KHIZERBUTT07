@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/KHIZERBUTT07/KHIZERBUTT07/blob/main/banner.jpg)
+![logo](![Blue and White Gradient Web Developer LinkedIn Article Cover Image](https://github.com/user-attachments/assets/d0d65855-b43f-4759-be9c-744103f2e00f)
+)
  <h1 align="center">Hi 👋, I'm Khizer Butt</h1>
 <h3 align="center">A passionate frontend developer from Karachi Pakistan</h3>
 
